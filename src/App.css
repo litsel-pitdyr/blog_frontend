@@ -1,38 +1,153 @@
-.App {
+.header{
+  text-align: center;
+  margin-bottom: 8%;
+  margin-top: 10px;
+}
+
+.list{
+  text-align: center;
+  padding: 5px;
+  margin-right: 20px;
+}
+
+.users{
+  margin-left: 30%;
+}
+
+.button{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.bold{
+  font-weight: 900;
+}
+
+.input-field{
+  text-align: center;
+  margin-top: 8%;
+  margin-bottom: 10px;
+}
+
+.link{
+}
+/*.padding{
+  margin-top: 1%;
+  margin-left: 1%;
+  margin-right: 4%;
+  margin-bottomt: 1%;
+}
+.bold{
+  font-weight: 900;
+}
+.input{
+  font-size: 120%;
+  text-align:right;
+}
+.border{
+  border: solid black 4px;
+  margin-right: 0%;
+  padding: 0.5%;
+  min-width: 10%;
+  text-align: right;
+  background: white;
+}
+.bordergray{
+  border: solid black 4px;
+  margin-right: 0%;
+  padding: 0.5%;
+  min-width: 10%;
+  text-align: right;
+  background: #eaeaea;
+}
+.bordertext{
+  margin-right: 32%;
+}
+#borderpadding{
+  margin-top: 1%;
+}
+.bordercenter{
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.borderspecial{
+  margin-top: -4px;
+}
+#borderspecial2{
+  margin-top: -5px;
+}
+.alignborder{
+  margin-top: -0.1%;
+}
+#topbar{
+  text-align: right;
+  position: relative;
+  max-width: 68%;
+  margin-left: 13%;
+  line-height: 200%;
+  padding: 1%;
+  border: solid black 4px;
+  background: white;
+}
+.buttonsize{
+  height: 5%;
+}
+#left{
+  float: left;
+  margin-top: 10%;
+}
+#familyplan{
+  position: relative;
+  margin-right: 10%;
+  margin-top: 40px;
+  float: right;
+}
+#dropdown{
+  position: relative;
+  margin-top: 40px;
+  margin-right: 5%;
+  float: right;
+}
+.borderfix{
+  margin-left: 0%;
+}
+.tier{
+  float: left;
+}
+.bottompadding{
+  margin-bottom: 0.5%;
+}
+#logo{
+  position: relative;
+  content:url(logo.png);
+  margin: 20px;
+  width: 384px;
+  height: 55px;
+  float: left;
+}
+#toparea{
+  position: relative;
+  min-height: 95px;
+  max-height: 95px;
+  text-align: center;
+  border: black solid 4px;
+  background: white;
+}
+#lsr{
+  position: relative;
+  font-size: 350%;
+  float: left;
+  margin-top: 14px;
+}
+#topoptions{
+  position: relative;
+  top: 5%;
+  right: 5%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#outsidediv{
+  background: #e8d6ff;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+#advancedoptions{
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+}*/
